@@ -141,6 +141,8 @@
   flex-wrap: wrap;
   justify-content: space-between;
   align-content: space-between;
+  list-style: none;
+  padding: 0;
 }
 
 .table__cell {
@@ -288,8 +290,4 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-}
-.table {
-  list-style: none;
-  padding: 0;
 }
