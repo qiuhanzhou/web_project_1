@@ -202,7 +202,7 @@
 }
 
 .kaufman {
-  background-color: #000000;
+  background-color: #1f1f1f;
   position: relative;
   overflow: hidden;
   z-index: -1;
@@ -242,7 +242,7 @@
 .footer {
   display: flex;
   flex-direction: column;
-  background-color: #000000;
+  background-color: #1f1f1f;
   color: white;
   min-height: 350px;
 }
@@ -272,6 +272,7 @@
   font-weight: normal;
   list-style: none;
   padding: 0;
+  margin: 0;
 }
 .footer__social-icons {
   margin-right: 10px;
