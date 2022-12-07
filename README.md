@@ -1,4 +1,4 @@
-# Project name.
+# Project name
 
 This project is a single landing web page of information about learning how to learn.
 
