@@ -1,6 +1,9 @@
 # Project name
 
-This project is a single landing web page of information about learning how to learn.
+This project is a single landing web page of information about learning how to learn.  
+
+Deployed live site [here](https://qiuhanzhou.github.io/web_project_1/).
+
 
 # Project description
 
@@ -10,3 +13,4 @@ The web page includes information of techniques and methods about learning skill
 
 Languages used include HTML5 and CSS3.
 Used BEM file structure to better organize and reuse style sheets, in order to maximize performance. Used technologies such as embedding iframes, Flex box, animation and reusable blocks to achieve a modern and functional look.
+
